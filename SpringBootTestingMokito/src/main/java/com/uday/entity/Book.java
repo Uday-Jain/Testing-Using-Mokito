@@ -1,5 +1,7 @@
 package com.uday.entity;
 
+// Uday Mast Banda Hai
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
@@ -64,6 +66,8 @@ public class Book {
 		this.author = author;
 		this.price = price;
 		this.status = status;
+		
+	
 	}
 	
 }
